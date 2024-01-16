@@ -24,7 +24,7 @@ $conn->close();
 <html>
 <head>
     <title>従業員情報更新</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <nav>

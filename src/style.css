@@ -63,3 +63,18 @@ nav ul li a:hover {
 .form-container input[type=submit]:hover {
     opacity: 1;
 }
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
