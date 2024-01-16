@@ -1,5 +1,3 @@
-エラーが起きたコードは下記の通り
-
 <!DOCTYPE html>
 <html>
 <head>
